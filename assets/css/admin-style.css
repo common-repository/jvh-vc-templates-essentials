@@ -1,0 +1,16 @@
+.featured_image img {
+	max-width: 100%;
+	height: auto;
+}
+
+.post-type-jvh-vc-template th#title {
+	width: 40%;
+}
+
+.post-type-jvh-vc-template th#taxonomy-category-jvh-template {
+	width: 10%;
+}
+
+.post-type-jvh-vc-template th#featured_image {
+	width: 50%;
+}
